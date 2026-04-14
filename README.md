@@ -1,6 +1,6 @@
 # pQTL Data Analysis
 
-Protein quantitative trait locus (pQTL) analysis pipeline developed as part of **QTL-DB**, a cross-omics relational database project for BF768 Biological Databases (Boston University). This repository contains the data processing scripts used to download, filter, and annotate pQTL summary statistics from the UK Biobank Pharma Proteomics Project (UKB-PPP).
+Protein quantitative trait locus (pQTL) analysis pipeline developed as part of **QTL-DB**, a database project for BF768 Biological Databases (Boston University). This repository contains the data processing scripts used to download, filter, and annotate pQTL summary statistics from the UK Biobank Pharma Proteomics Project (UKB-PPP).
 
 
 ## What this pipeline does
