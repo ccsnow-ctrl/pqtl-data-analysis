@@ -83,4 +83,4 @@ python3 process_pqtl.py
 
 ## Contributors
 
-This pipeline was developed by Christine Snow as part of a group project with Paul Okoro, Hannah Owen, Lauren Anderson, and Reem Rasmy, supervised by Dr. Xiaoling Zhang.
+This pipeline was developed by Christine Snow as part of a group project associated with BF768 at Boston University.
